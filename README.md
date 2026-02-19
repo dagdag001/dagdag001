@@ -4,7 +4,5 @@ I’m Dagim, a Full Stack Developer who enjoys building practical, scalable web 
 
 I focus on writing clean, maintainable code and understanding systems deeply rather than just making them work. I enjoy solving logic problems, debugging complex issues, and improving performance where it matters.
 
-I’m continuously working on strengthening my system design skills, refining architecture decisions, and building production ready projects that reflect real world standards.
-
 Always learning. Always building.
 
