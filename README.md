@@ -1,8 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I’m Dagim.</h1>
 
-I’m Dagim, a Full Stack Developer who enjoys building practical, scalable web applications from idea to deployment. I like working across the entire stack and thinking through how each layer connects, from database structure to backend logic to user experience.
+<p align="center">
+Full Stack Developer building scalable and practical web applications.
+</p>
 
-I focus on writing clean, maintainable code and understanding systems deeply rather than just making them work. I enjoy solving logic problems, debugging complex issues, and improving performance where it matters.
+<p align="center">
+❌ Just writing code.  
+✅ Building real, production-ready systems.
+</p>
 
-Always learning. Always building.
+<p align="center">
+🔎 <a href="https://github.com/dagdag001?tab=repositories">View Projects</a> •
+🚀 <a href="#">Explore Work</a> •
+⚡ <a href="#">Get in touch</a>
+</p>
 
+---
+
+<p align="center">
+I enjoy designing clean backend architecture, connecting it to smooth user interfaces,  
+and turning ideas into real, usable products.
+</p>
